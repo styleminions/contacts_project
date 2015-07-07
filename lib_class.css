@@ -1,0 +1,72 @@
+h1{
+	color:white;
+}
+
+body{
+	background-color:black;
+	
+	
+	
+}
+
+#class_container{
+	background-color:white;
+	width: 600px;
+	height: 320px;
+    padding: 25px;
+    border: 0;
+    margin-left: 350px;
+	
+}
+
+#header{
+	background-color:#F38900;
+	text-align:center;
+	width: 600px;
+	text-transform: uppercase;
+	
+	
+}
+
+#button{
+	text-align:right;
+}
+
+#back_button{
+	text-align:left;
+}
+
+#add_contact{
+	text-align:center;
+}
+
+.delete{
+	text-align:center;
+	margin-left: 20px;
+}
+
+
+a {
+    text-decoration: none;
+	color: black;
+} 
+
+a:hover {
+    color: #F38900;
+}
+
+#list{
+	text-transform: capitalize;
+	font-size: 18px;
+}
+
+#list_fill{
+	text-transform: capitalize;
+	padding: 10px;
+	font-size: 18px;
+	
+}
+#image{
+text-align: center;
+padding: 20px;
+}
